@@ -43,3 +43,18 @@ body {
 	margin-bottom: 50px;
 
 }
+
+img-fluid-2 {
+	margin-top: 20px;
+	margin-bottom: -30px;
+	border-radius: 50%;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+.row div {
+	width: 100%;
+}
