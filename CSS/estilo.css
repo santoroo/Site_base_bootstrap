@@ -37,3 +37,9 @@ body {
 .col2 h1 {
 	margin-top: 20px;
 }
+
+.img-fluid {
+	margin-top: 60px;
+	margin-bottom: 50px;
+
+}
