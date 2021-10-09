@@ -55,7 +55,7 @@ img-fluid-2 {
 }
 
 .row div {
-	width: 100%;
+	width: 50%;
 }
 
 .nav-link {
@@ -64,6 +64,6 @@ img-fluid-2 {
 }
 
 .nav-link:hover {
-	color: black;
+	color: white;
 }
 
